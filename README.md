@@ -16,7 +16,7 @@ Technologies Used:
  How to Run ?
 Just open `index.html` in your browser and navigate through the links.
 
-Author
+
 Created by Nagunoori Siri
 
 
